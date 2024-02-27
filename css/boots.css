@@ -1,0 +1,219 @@
+.navbar {
+    background-color: #222;
+}
+
+.nav-link1 {
+    margin-left: 18px;
+    color: #9d9d9d;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.icons__color-bluee {
+    color: blue;
+}
+
+.icons__color-white {
+    color: white;
+}
+
+.display-5 {
+    color: white;
+}
+
+.ex2 {
+    height: 37.5rem;  
+    overflow-y: hidden;
+}
+
+.ex2 img {
+    height: 58rem;
+}
+
+.bi-heart-fill{
+    color: rgb(80, 79, 79);
+}
+
+.bi-stack{
+    color:rgb(80, 79, 79);
+}
+
+.bi-eye{
+    color: rgb(80, 79, 79);
+}
+
+.text-left {
+    margin-left: 80px;
+    font-family: Lato;
+    font-size: 19.5px;
+}
+
+.chiziq {
+    left: 25%;
+    content: " ";
+    position: absolute;
+    width: 200px;
+    height: 4px;
+    background: #222;
+}
+
+.about-our {
+    font-family: Lato;
+    font-size: 45px;
+}
+
+.navbar-toggler-icon {
+    background-color: #424242;
+}
+
+.rasm2 {
+    width: 100%;
+}
+
+.rasm2 img {
+    height: 18rem;
+}
+
+.display-h1 {
+    margin-top: 350px;
+    color: white;
+    font-family: Lato;
+}
+
+.display-h4 {
+    color: white;
+    width: 800px;
+    font-family: Lato;
+}
+
+.chiiziq {
+    left: 28%;
+    content: " ";
+    position: absolute;
+    width: 200px;
+    height: 4px;
+    background: #222;
+}
+
+.one-brand {
+    font-family: Lato;
+}
+
+.brand-p {
+    margin-left: 80px;
+    font-family: Lato;
+}
+
+.always {
+    font-family: Lato;
+}
+
+.img-3 img {
+    width: 600px;
+    margin-top: 50px;
+}
+
+.img-4 img {
+    height: 300px;
+}
+
+.design {
+    position: relative;
+    font-family: Lato;
+    color: white;
+    top: -220px;
+    height: 60px;
+}
+
+.chiiziiq {
+    left: 28%;
+    content: " ";
+    position: absolute;
+    width: 200px;
+    height: 4px;
+    background: white;
+}
+
+.design-p {
+    margin-left: 35px;
+    font-size: 25px;
+    line-height: 28px;
+}
+
+.meet-team {
+    font-family: Lato;
+    height: 120px;
+}
+
+.img-team img {
+    border-radius: 50%;
+}
+
+.name {
+    font-family: Lato;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bi-twitter {
+    color: rgb(66, 163, 243);
+}
+
+.bi-twitter :hover {
+    color: rgb(250, 91, 28);
+}
+
+.bi-facebook {
+    color: rgb(66, 163, 243);
+    margin-left: 5px;
+}
+
+.bi-facebook :hover {
+    color: rgb(250, 91, 28);
+}
+
+.bi-instagram {
+    color: rgb(66, 163, 243);
+    margin-left: 5px;
+}
+
+.bi-instagram :hover {
+    color: rgb(250, 91, 28);
+}
+
+.solve {
+    color: white;
+    margin-top: 70px;
+}
+
+.solv {
+    color: white;
+}
+
+.connect {
+    color: white;
+    margin-top: 50px;
+}
+
+.blackk {
+    background-color: #222;
+    color: white;
+}
+
+.icon-envelop {
+    text-decoration: none;
+}
+
+.icon-envelop:hover {
+    color: #f76d1e;
+}
+
+.icon-twitter:hover {
+
+}
+
+.icon-facebook:hover {
+
+}
